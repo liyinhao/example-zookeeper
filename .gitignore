@@ -1,0 +1,13 @@
+.idea
+.metadata
+*.iml
+*.ipr
+*.iws
+*./.classpath
+*.classpath
+*.project
+*/target
+*/.setting
+*/out
+out
+lib/*.jar
